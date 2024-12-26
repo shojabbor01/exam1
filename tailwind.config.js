@@ -8,7 +8,7 @@ module.exports = {
         'md': '575px',
         'lg' : '767px',
         'xl' : '992px',
-        '2xl' : '1500px',
+        '2xl' : '1280px',
       }
     },
   },
